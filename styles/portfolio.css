@@ -131,3 +131,17 @@ main{
 .section-m{
     text-align: center;
 }
+.section-description{
+    text-align: center;
+    margin: 0px 110px;
+}
+/* skills-container section */
+.skills-container{
+    display: flex;
+}
+
+.skill{
+    padding: 30px;
+    margin-top: 30px;
+    gap: 24px;
+}
