@@ -134,6 +134,7 @@ main section {
 /* What i do section */
 .section-m {
     text-align: center;
+    font-size: 35px;
 }
 
 .section-description {
@@ -200,4 +201,13 @@ main section {
 .download-cv{
     text-align: center;
     margin-top: 50px;
+}
+
+/* Footer Section */
+footer{
+    display: flex;
+    background: #FFF8F3;
+    margin-top: 113px;
+    /* padding: 130px 140px; */
+    padding: 130px 386px 130px 230px;
 }
